@@ -6,8 +6,8 @@
     <title>Le Jeu du 10</title>
     <meta name="author" content="Simon Janssen">
     <meta name="description" content="Un simple jeu de mise que j'ai appris à l'université.">
-    <link rel="icon" href="favicon.ico" type="image/x-icon">
-    <link href="styles/style.css" rel="stylesheet">
+    <!-- <link rel="icon" href="favicon.ico" type="image/x-icon"> -->
+    <!-- <link href="styles/style.css" rel="stylesheet"> -->
   </head>
   <body>
     <main>  <!-- le jeu en tant que tel -->
@@ -129,6 +129,6 @@
         </section>
       </div>
     </main>
-    <script src="scripts/main.js"></script>
+    <!-- <script src="scripts/main.js"></script> -->
   </body>
 </html>
