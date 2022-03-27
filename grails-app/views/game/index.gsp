@@ -8,6 +8,7 @@
     <meta name="description" content="Un simple jeu de mise que j'ai appris à l'université.">
     <!-- <link rel="icon" href="favicon.ico" type="image/x-icon"> -->
     <!-- <link href="styles/style.css" rel="stylesheet"> -->
+    <asset:stylesheet src="style.css"/>
   </head>
   <body>
     <main>  <!-- le jeu en tant que tel -->
@@ -130,5 +131,6 @@
       </div>
     </main>
     <!-- <script src="scripts/main.js"></script> -->
+    <asset:javascript src="main.js"/>
   </body>
 </html>
